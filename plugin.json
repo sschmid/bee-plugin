@@ -1,0 +1,7 @@
+{
+  "homepage": "https://github.com/sschmid/bee-plugin",
+  "info": "Release bee plugins",
+  "dependencies": [
+    "changelog"
+  ]
+}

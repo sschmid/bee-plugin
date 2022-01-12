@@ -1,0 +1,6 @@
+PLUGIN_NAME="plugin"
+
+BEE_PROJECT="bee-plugin"
+BEE_PLUGINS=(changelog semver)
+
+CHANGELOG_URL="https://github.com/sschmid/${BEE_PROJECT}"
